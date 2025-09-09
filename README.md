@@ -21,4 +21,4 @@ A functional AES-128 core capable of encrypting and decrypting 128-bit data bloc
 <br>
 
 #### *Referenced Document*
-[Docs]()
+[Docs](https://github.com/J-HanRyang/AES_128/tree/main/Docs)
