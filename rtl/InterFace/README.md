@@ -1,4 +1,4 @@
-# CP InterFace
+# Cp InterFace
 This directory contains modules for the standard bus interface, which connects the AES core to an external system (e.g., a processor within an SoC). <br>
 
 ## **Cp_ApbIfBlk :**
