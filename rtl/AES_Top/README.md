@@ -4,6 +4,11 @@ This directory contains the top-level modules of the AES-128 core.
 ## **AesCtrl :**
 The main FSM controller that governs the entire operation. <br>
 It acts as the brain of the system, directing all processes, including key loading, data I/O, and round iteration.
+<div align="center">
+  <img width="1062" height="659" alt="image" src="https://github.com/user-attachments/assets/160b6b8f-3115-4891-880a-b7936652d077" />
+</div>
+
+<br>
 
 ## **AesCore :**
 The primary datapath where the actual data processing occurs. <br>
